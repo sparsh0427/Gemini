@@ -1,0 +1,13 @@
+Implement the below scenarios using selenium webdriver .
+
+Scenario 1-  Launch the browser ,Navigate to the url "https://www.facebook.com"
+
+	    Read String = "19-Mar-2020"
+
+	    Use the string to select the dob from the landing page of the url opened.
+
+	    if dob selected successfully Fetch the "year" dropdown and validate dropdwon options are in ascending/descending order.
+
+
+
+	    
